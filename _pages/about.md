@@ -27,7 +27,7 @@ My current research interests mainly focus on Vision-Language-Action (VLA) model
 
 # 📝 Publications 
 
-* **Equal Contribution**
+***Equal Contribution**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Screenshot from 2025-09-25 17-21-30.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
