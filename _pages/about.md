@@ -23,7 +23,7 @@ My current research interests mainly focus on Vision-Language-Action (VLA) model
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 When Long Helps Short: How Context Length in Supervised Fine-tuning Affects Behavior of Large Language Models is accepted by EMNLP2025.
+- *2025.08*: &nbsp;🎉🎉 When Long Helps Short: How Context Length in Supervised Fine-tuning Affects Behavior of Large Language Models is accepted by EMNLP 2025 Main Conference.
 
 # 📝 Publications 
 
