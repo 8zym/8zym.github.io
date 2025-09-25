@@ -29,7 +29,7 @@ My current research interests mainly focus on Vision-Language-Action (VLA) model
 
 ***Equal Contribution**
 
-- [When Long Helps Short: How Context Length in Supervised Fine-tuning Affects Behavior of Large Language Models](https://openreview.net/pdf?id=oizASIbuB5), **Yingming Zheng***, Hanqi Li*, Kai Yu, Lu Chen **EMNLP 2025**
+- [When Long Helps Short: How Context Length in Supervised Fine-tuning Affects Behavior of Large Language Models](https://openreview.net/pdf?id=oizASIbuB5), **Yingming Zheng**\*, Hanqi Li\*, Kai Yu, Lu Chen **EMNLP 2025**
 - [CRAVE: A Conflicting Reasoning Approach for Explainable Claim Verification Using LLMs](https://arxiv.org/pdf/2504.14905), **Yingming Zheng**, Xiaoliang Liu, Peng Wu, Li Pan
 
 
