@@ -35,7 +35,7 @@ My current research interests mainly focus on Vision-Language-Action (VLA) model
 
 # 🎖 Honors and Awards
 - *2024.10* The Tung Scholarship
-- *2023.10* National Scholarship
+- *2023.10* **National Scholarship**
 - *2023.10* The First Prize Scholarship of Shanghai Jiao Tong Univeristy (The top one of each major)
 
 # 📖 Educations
