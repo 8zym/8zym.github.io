@@ -41,7 +41,7 @@ My current research interests mainly focus on Vision-Language-Action (VLA) model
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [When Long Helps Short: How Context Length in Supervised Fine-tuning Affects Behavior of Large Language Models](https://openreview.net/pdf?id=oizASIbuB5),**Yingming Zheng** *, Hanqi Li *, Kai Yu, Lu Chen **EMNLP 2025**
 
 # 🎖 Honors and Awards
 - *2024.10* The Tung Scholarship
